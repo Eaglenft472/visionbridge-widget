@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": "2026-02-25T02:22:30.612333",
+    "test_name": "SL Trigger Simulation",
+    "status": "FAIL",
+    "details": "No position on exchange for BTC/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:32.620995",
+    "test_name": "SL Trigger Simulation",
+    "status": "FAIL",
+    "details": "No position on exchange for ETH/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:34.625677",
+    "test_name": "SL Trigger Simulation",
+    "status": "FAIL",
+    "details": "No position on exchange for SOL/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:36.628048",
+    "test_name": "SL Trigger Simulation",
+    "status": "FAIL",
+    "details": "No position on exchange for LINK/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:38.631452",
+    "test_name": "SL Trigger Simulation",
+    "status": "FAIL",
+    "details": "No position on exchange for ONDO/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:40.649216",
+    "test_name": "Internet Disconnection Recovery",
+    "status": "PASS",
+    "details": {
+      "checkpoint_created": true,
+      "state_recovered": true,
+      "entry_preserved": true
+    }
+  },
+  {
+    "timestamp": "2026-02-25T02:22:44.657125",
+    "test_name": "Manual Stop Deletion & Reconciliation",
+    "status": "SKIP",
+    "details": "No position on BTC/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:46.663054",
+    "test_name": "Crash Restart Rebuild",
+    "status": "SKIP",
+    "details": "No position on BTC/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:48.665944",
+    "test_name": "Manual Stop Deletion & Reconciliation",
+    "status": "SKIP",
+    "details": "No position on ETH/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:50.668421",
+    "test_name": "Crash Restart Rebuild",
+    "status": "SKIP",
+    "details": "No position on ETH/USDT"
+  },
+  {
+    "timestamp": "2026-02-25T02:22:52.673260",
+    "test_name": "Dual Position Scenario",
+    "status": "PASS",
+    "details": {
+      "bar_close_lock_active": true,
+      "minutes_since_last": 0.5,
+      "can_open_second": false,
+      "lock_working": true
+    }
+  }
+]

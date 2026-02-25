@@ -1,0 +1,494 @@
+[
+  {
+    "timestamp": "2026-02-24T23:37:33.241345",
+    "state": {
+      "timestamp": "2026-02-24T23:37:20.852568",
+      "crash_time": "2026-02-24T23:37:20.852568",
+      "state": {
+        "peak": 95.47024514,
+        "active_symbol": null,
+        "entry": null,
+        "sl": null,
+        "R": null,
+        "direction": null,
+        "last_update": null,
+        "risk_cut": false,
+        "last_save": "2026-02-24T23:37:20.848547",
+        "save_count": 1
+      },
+      "recovery_mode": true
+    },
+    "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Dell\\Desktop\\Milyondolarl\u0131kKod\\hybrid_engine\\main.py\", line 296, in <module>\n    f\"WR: {perf.get('win_rate',0):.1f}% | PF: {perf.get('profit_factor',0):.2f}\\n\"\n           ^^^^^^^^\nAttributeError: 'NoneType' object has no attribute 'get'\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T00:07:18.068316",
+    "state": {
+      "peak": 95.47024514,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T00:07:10.034710",
+      "save_count": 2
+    },
+    "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Dell\\Desktop\\Milyondolarl\u0131kKod\\hybrid_engine\\main.py\", line 391, in <module>\n    f\"WR: {perf.get('win_rate',0):.1f}% | PF: {perf.get('profit_factor',0):.2f}\\n\"\n           ^^^^^^^^\nAttributeError: 'NoneType' object has no attribute 'get'\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T00:22:44.639077",
+    "state": {
+      "peak": 95.47024514,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T00:22:16.624366",
+      "save_count": 5
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T00:46:47.288095",
+    "state": {
+      "peak": 95.47024514,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T00:46:39.886389",
+      "save_count": 14
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:10:48.289587",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:10:25.239173",
+      "save_count": 46
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:13:34.609113",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:13:11.531791",
+      "save_count": 51
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:14:41.571669",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:14:24.196698",
+      "save_count": 53
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:17:32.620480",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:17:20.731893",
+      "save_count": 56
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:20:37.383189",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:19:59.210867",
+      "save_count": 61
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:23:30.211440",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:23:03.918098",
+      "save_count": 66
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:33:02.326769",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:32:35.624940",
+      "save_count": 82
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:33:51.424718",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:33:37.184160",
+      "save_count": 83
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:37:07.156216",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:36:53.774412",
+      "save_count": 87
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:41:17.951446",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:41:03.755066",
+      "save_count": 96
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T01:49:06.596755",
+    "state": {
+      "peak": 10000.0,
+      "active_symbol": null,
+      "entry": null,
+      "sl": null,
+      "R": null,
+      "direction": null,
+      "last_update": null,
+      "risk_cut": false,
+      "last_save": "2026-02-25T01:48:43.245287",
+      "save_count": 112
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T02:11:44.496184",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T02:11:35.389695",
+      "save_count": 14
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T02:14:11.556747",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T02:13:57.572847",
+      "save_count": 17
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T02:27:23.781060",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T02:27:10.938889",
+      "save_count": 27
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T02:44:35.719632",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T02:44:02.594185",
+      "save_count": 41,
+      "peak": 10000.0,
+      "direction": null
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T03:01:34.330403",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T03:00:51.991544",
+      "save_count": 58,
+      "peak": 10000.0,
+      "direction": null
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T03:10:19.504319",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T03:10:12.223454",
+      "save_count": 61,
+      "peak": 10000.0,
+      "direction": null
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  },
+  {
+    "timestamp": "2026-02-25T03:20:19.574780",
+    "state": {
+      "current_position": {
+        "symbol": "BTC/USDT",
+        "side": "long",
+        "entry_price": 40000,
+        "amount": 0.5,
+        "leverage": 5,
+        "tp": 42000,
+        "sl": 38000,
+        "opened_at": 1771973774.399461,
+        "order_id": "mock_12345"
+      },
+      "trades": [],
+      "stats": {
+        "total_trades": 1,
+        "wins": 0,
+        "losses": 0
+      },
+      "entry": 40000,
+      "sl": 38000,
+      "tp": 42000,
+      "R": 2000,
+      "symbol": "BTC/USDT",
+      "risk_cut": false,
+      "last_save": "2026-02-25T03:20:08.658484",
+      "save_count": 70,
+      "peak": 10000.0,
+      "direction": null
+    },
+    "traceback": "NoneType: None\n",
+    "recovery_available": true
+  }
+]

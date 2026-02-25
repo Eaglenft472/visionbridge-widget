@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2026-02-25T01:39:53.935104",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:40:03.726586",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:40:23.935876",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:40:53.920577",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:41:03.750522",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:47:30.681910",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:47:42.623871",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:48:00.691451",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:48:30.687562",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:48:43.226454",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  },
+  {
+    "timestamp": "2026-02-25T01:49:00.697181",
+    "symbol": "BTC/USDT",
+    "issues_found": 0,
+    "issues": [],
+    "state_updated": false,
+    "exchange_entry": 40000.0,
+    "state_entry": null,
+    "exchange_unrealized": 100.0
+  }
+]

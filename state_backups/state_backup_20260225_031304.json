@@ -1,0 +1,29 @@
+{
+  "current_position": {
+    "symbol": "BTC/USDT",
+    "side": "long",
+    "entry_price": 40000,
+    "amount": 0.5,
+    "leverage": 5,
+    "tp": 42000,
+    "sl": 38000,
+    "opened_at": 1771973774.399461,
+    "order_id": "mock_12345"
+  },
+  "trades": [],
+  "stats": {
+    "total_trades": 1,
+    "wins": 0,
+    "losses": 0
+  },
+  "entry": 40000,
+  "sl": 38000,
+  "tp": 42000,
+  "R": 2000,
+  "symbol": "BTC/USDT",
+  "risk_cut": false,
+  "last_save": "2026-02-25T03:13:04.489239",
+  "save_count": 63,
+  "peak": 10000.0,
+  "direction": null
+}
