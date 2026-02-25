@@ -1,7 +1,11 @@
-def compute_score(df):
+def compute_score(df, direction):
     """
     Enterprise v4 Skor Motoru.
     İndikatörleri önem sırasına göre ağırlıklandırır.
+
+    Args:
+        df: OHLCV ve indikatör verilerini içeren DataFrame.
+        direction: İşlem yönü ('LONG' veya 'SHORT').
     """
     last = df.iloc[-1]
     score = 0
